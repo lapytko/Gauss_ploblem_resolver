@@ -1,0 +1,10 @@
+E:\Gauss\Gauss\bin\Debug\Gauss.exe.config
+E:\Gauss\Gauss\bin\Debug\Gauss.exe
+E:\Gauss\Gauss\bin\Debug\Gauss.pdb
+E:\Gauss\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+E:\Gauss\Gauss\obj\Debug\Gauss.MainForm.resources
+E:\Gauss\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+E:\Gauss\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+E:\Gauss\Gauss\obj\Debug\Gauss.csproj.CoreCompileInputs.cache
+E:\Gauss\Gauss\obj\Debug\Gauss.exe
+E:\Gauss\Gauss\obj\Debug\Gauss.pdb
